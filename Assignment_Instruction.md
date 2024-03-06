@@ -11,7 +11,7 @@ Instructions:
 
 2. Open in Visual Studio Code:
    - Clone your forked repository to your local machine.
-   - Open Visual Studio Code and navigate to the cloned repository folder.
+ 
 
 3. Tweak Python Code:
    - Open the Python file in Visual Studio Code.
