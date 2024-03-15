@@ -18,7 +18,7 @@ Step 3: Create a new code file named "Codefile" in the "main" branch. Add the fo
 
 Step 4: Switch to another branch named "GitBranch_01".
 
-Step 5: Create a new code file named "Codefile" in the "GitBranch_01" branch. Add the following text to the file:
+Step 5: Create a new code file named "Codefile1" in the "GitBranch_01" branch. Add the following text to the file:
 ```
 "This is the file to create merge conflict.
 
