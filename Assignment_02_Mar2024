@@ -36,5 +36,3 @@ Step 8: Resolve the conflict that arises due to having two different versions of
 Submission:
 Submit a report detailing the steps you followed to simulate and resolve the merge conflict. Include screenshots of the GitHub interface at various stages of the process to demonstrate your understanding. Additionally, provide a brief explanation of how you resolved the conflict and merged the branches successfully.
 
-Note:
-Ensure that both branches have a code file named "Codefile" with different contents to create a merge conflict. This exercise aims to familiarize you with the common scenario of conflicting changes during collaborative development on GitHub.
